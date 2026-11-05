@@ -1,0 +1,3 @@
+- [x] Add `REQUEST_IGNORE_BATTERY_OPTIMIZATIONS` permission to `AndroidManifest.xml`
+- [x] Improve battery optimization request logic in `HomeScreen.kt`
+- [x] Verify build with `./gradlew :app:compileDebugKotlin`

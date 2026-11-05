@@ -1,0 +1,6 @@
+- `[x]` Update `Color.kt` with vibrant neon palette
+- `[x]` Update `Theme.kt` for high-impact dark mode
+- `[x]` Redesign `HomeScreen.kt` with neon 3D glow
+- `[x]` Redesign `CallLogScreen.kt` with LED frame effect
+- `[x]` Redesign `RecipeHubScreen.kt` with vibrant accents
+- `[x]` Verify build and visual "impact"
